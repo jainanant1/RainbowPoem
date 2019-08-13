@@ -1,3 +1,6 @@
 The colours of the rainbow. First text
 I missed the colours earlier
 I again missed the colours  
+
+Now adding the colours in real:
+red, orange, yellow, green, blue, indigo, violet
